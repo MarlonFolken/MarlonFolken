@@ -1,7 +1,7 @@
 # Certificates
 On July 15th 2024, I achieved the [GitHub Foundations Certification](https://www.credly.com/badges/35e1d8e6-698b-4227-92ff-b163d43d4c35/public_url) 
 :-:|
-![GitHub Foundations Certification Badge](https://images.credly.com/size/256x256/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)
+![GitHub Foundations Certification Badge](./github-foundations256px.png)
 
 
 # Languages and activity
